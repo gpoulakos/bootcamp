@@ -1,2 +1,2 @@
 # bootcamp
-This repo is for exercises of the bootcamp courses
+This repo is for exercises of the AFDEMP bootcamp
